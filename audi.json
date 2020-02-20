@@ -1,0 +1,55 @@
+{
+"data": [
+  {
+    "title": "Audi Data",
+    "tiles": [
+      {
+        "tileTitle": "Power [W]",
+        "measurand": "sysVoltage",
+        "requestURL": "/widgetID/Power",
+        "timeInterval": "10"
+      },
+      {
+        "tileTitle": "SOC [%]",
+        "measurand": "sysCellVoltageMin",
+        "requestURL": "/widgetID/SOC",
+        "timeInterval": "30"
+      },
+      {
+        "tileTitle": "Efficiency [%]",
+        "measurand": "sysCellVoltageMax",
+        "requestURL": "/widgetID/Efficiency",
+        "timeInterval": "30"
+      },
+      {
+        "tileTitle": "Power [W]",
+        "measurand": "sysVoltage",
+        "requestURL": "/widgetID/Power",
+        "timeInterval": "10"
+      }
+    ]
+  },
+  {
+    "title": "Condition and Lifetime",
+    "tiles": [
+      {
+        "tileTitle": "Voltage Cell Spread [mV]",
+        "measurand": "sysTemperatureMin",
+        "requestURL": "/widgetID/VoltageCellSpread",
+        "timeInterval": "10"
+      },
+      {
+        "tileTitle": "SOC Cell Spread [mAh]",
+        "measurand": "sysTemperatureAvg",
+        "requestURL": "/widgetID/SOCCellSpread",
+        "timeInterval": "30"
+      },
+      {
+        "tileTitle": "Overall Energy Throughput [Ah]",
+        "measurand": "sysTemperatureMax",
+        "requestURL": "/widgetID/OverallEnergyThroughput",
+        "timeInterval": "30"
+      }
+    ]
+  }
+]}
