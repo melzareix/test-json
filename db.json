@@ -94,7 +94,7 @@
           "timeInterval": "10"
         },
         {
-          "tileTitle": "SOC Cell Spread [mAh]",
+          "tileTitle": "SOC Cell Spread [%]",
           "measurand": "sysTemperatureAvg",
           "requestURL": "/widgetID/SOCCellSpread",
           "timeInterval": "30"
