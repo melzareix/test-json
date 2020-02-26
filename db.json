@@ -56,7 +56,7 @@
 
   "magna": [
     {
-      "title": "Magna Data Tile X",
+      "title": "Live Data",
       "tiles": [
         {
           "tileTitle": "Power [W]",
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "title": "Live Data",
+      "title": "Condition and Lifetime",
       "tiles": [
         {
           "tileTitle": "Voltage Cell Spread [mV]",
