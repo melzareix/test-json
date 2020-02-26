@@ -85,7 +85,7 @@
       ]
     },
     {
-      "title": "Magna Data Condition and Lifetime X",
+      "title": "Live Data",
       "tiles": [
         {
           "tileTitle": "Voltage Cell Spread [mV]",
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "title": "Magna Data Condition and Lifetime X",
+      "title": "Condition and Lifetime X",
       "tiles": [
         {
           "tileTitle": "Voltage Cell Spread [mV]",
