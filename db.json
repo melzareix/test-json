@@ -129,12 +129,6 @@
           "measurand": "sysCellVoltageMax",
           "requestURL": "/widgetID/Efficiency",
           "timeInterval": "30"
-        },
-        {
-          "tileTitle": "Power [W]",
-          "measurand": "sysVoltage",
-          "requestURL": "/widgetID/Power",
-          "timeInterval": "10"
         }
       ]
     },
